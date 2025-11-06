@@ -2,7 +2,7 @@
 
 All notable changes to `laravel-aida-gateway` will be documented in this file.
 
-## 1.0.0 - 2025-01-XX
+## 1.0.0 - 2025-11-05
 
 ### Added
 - Initial release
